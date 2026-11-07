@@ -1,0 +1,22 @@
+{
+  "wheel_id": 798,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-110",
+  "project": "retaining-wall-quotes-quotes-explained-f0029f534602dfb6c2208a71",
+  "parent_t1_ref": "retainingwallquote-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes quotes explained",
+  "intended_url": "http://retaining-wall-quotes-quotes-explained-f0029f534602dfb6c2208a71.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "310c24148ba3a98f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-quotes-myths-afbb588384f90db57adba9c4aee8e7973a8/",
+      "anchor": "Retaining Wall Quotes Myths: Understanding Quotes and Costs",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
